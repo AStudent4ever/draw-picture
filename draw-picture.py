@@ -1,5 +1,3 @@
-e
-
 def draw_square(some_turtle):
     for i in range(1, 5):
         some_turtle.forward(100)
